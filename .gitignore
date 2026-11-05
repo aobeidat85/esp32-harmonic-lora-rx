@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+captures/
+harmonic-captures/
+.pio/
+dashboard-logs/
+dashboard-server*.log
+
+# Local machine reports and generated build metadata
+/onboard-summary.json
+/experiment-summary.json
+compile_commands.json
+*.pyc
+.env
+.env.*
